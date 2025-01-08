@@ -1,5 +1,7 @@
 ### **Structured Query Language (SQL)**  
 SQL is a standard programming language used to **manage, query, and manipulate relational databases**. It is essential for **data analysis, database design, and backend development**.
+This provides an overview of SQL commands and examples for **querying, manipulating, and analyzing data**. 
+
 
 ---
 
@@ -254,4 +256,6 @@ IGNORE 1 ROWS; -- Skip header
 
 ---
 
-This provides an overview of SQL commands and examples for **querying, manipulating, and analyzing data**. 
+
+CompliedByUdithaWick
+
